@@ -6,6 +6,6 @@
  */
 int main(void)
 {
-	pust("\Programing is like building a multilingual puzzle")
+	pust("\|"Programming is like building a multilingual puzzle");
 	return (0);
 }
